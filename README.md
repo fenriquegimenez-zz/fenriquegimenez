@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enrique Giménez</h1>
-<h3 align="center">A computer science student from Paraguay</h3>
+<h3 align="center">A computer science student from Paraguay 🇵🇾</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fenriquegimenez" alt="fenriquegimenez" /> </p>
 

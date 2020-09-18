@@ -13,6 +13,7 @@ Actualmente, me dedico a aprender todas las tecnologías que tengan que ver con 
 
 - Python
 - Git
+- SQL
 - HTML, CSS and basic JS
 
 ## Social media

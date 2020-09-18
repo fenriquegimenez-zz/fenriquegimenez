@@ -15,6 +15,7 @@ Actualmente, me dedico a aprender todas las tecnologías que tengan que ver con 
 - Git
 - SQL
 - HTML, CSS and basic JS
+- WordPress
 
 ## Social media
 

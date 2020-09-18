@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hola, soy Enrique!
 
-<!--
-**fenriquegimenez/fenriquegimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente, me dedico a aprender todas las tecnologías que tengan que ver con Data Science.
 
-Here are some ideas to get you started:
+## Dónde estudio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Platzi](platzi.com)
+- [JetBrains Academy](hyperskill.org)
+- [FreeCodeCamp.org](freecodecamp.org)
+- [CodeCademy](codecademy.com)
+
+## Skills
+
+- Python
+- Git
+- HTML, CSS and basic JS
+
+## Social media
+
+- [twitter](twitter.com/def_enrique)
+- [linkedin](linkedin.com/fenriquegimenez)
+
+## Contact
+
+[Send me a mail](mailto:fenriquegimenez@gmail.com)

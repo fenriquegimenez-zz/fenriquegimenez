@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Enrique Giménez</h1>
-<h3 align="center">A computer science student from Paraguay 🇵🇾</h3>
+<h3 align="center">A software developer from Paraguay 🇵🇾</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fenriquegimenez&label=Profile%20views&color=0e75b6&style=flat" alt="fenriquegimenez" /> </p>
 
-<p align="left"> <a href="https://twitter.com/def_enrique" target="blank"><img src="https://img.shields.io/twitter/follow/def_enrique?logo=twitter&style=for-the-badge" alt="def_enrique" /></a> </p>
+<p align="left"> <a href="https://twitter.com/def_enrique" target="blank"><img src="https://img.shields.io/twitter/follow/fenriquegvera?logo=twitter&style=for-the-badge" alt="def_enrique" /></a> </p>
 
-- 🔭 I’m currently working on [Platzi Data Science School](https://platzi.com/datos/)
+- 🔭 I’m currently working on Documenta(https://documenta.com.py)
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Javascript**
 
 - 👯 I’m looking to collaborate on [Python Spanish Documentation](https://github.com/python/python-docs-es)
 
 - 👨‍💻 All of my projects are available at [github.com/fenriquegimenez](github.com/fenriquegimenez)
 
-- 💬 Ask me about **Python, JavaScript, HTML, CSS.**
+- 💬 Ask me about **Python, JavaScript, Node, Typescript, Express.**
 
 - 📫 How to reach me **fenriquegimenez@gmail.com**
 

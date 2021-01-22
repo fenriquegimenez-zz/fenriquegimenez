@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://codepen.io/fenriquegimenez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="fenriquegimenez" height="30" width="40" /></a>
 <a href="https://dev.to/fenriquegimenez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fenriquegimenez" height="30" width="40" /></a>
-<a href="https://twitter.com/def_enrique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="def_enrique" height="30" width="40" /></a>
+<a href="https://twitter.com/fenriquegvera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="def_enrique" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fenriquegimenez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fenriquegimenez" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/fenriquegimenez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="fenriquegimenez" height="30" width="40" /></a>
 </p>

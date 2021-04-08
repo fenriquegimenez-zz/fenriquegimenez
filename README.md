@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/fenriquegimenez](github.com/fenriquegimenez)
 
-- 💬 Ask me about **Python, JavaScript, Node, Typescript, Express.**
+- 💬 Ask me about **React, JavaScript, Python, Node, Typescript, Express.**
 
 - 📫 How to reach me **fenriquegimenez@gmail.com**
 

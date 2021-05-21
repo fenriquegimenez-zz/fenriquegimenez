@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **React** and **NextJS**
 
-- 👯 I’m looking to collaborate on [Python Spanish Documentation](https://github.com/python/python-docs-es)
+- 👯 My open source contributions were on [Python Spanish Documentation](https://github.com/python/python-docs-es)
 
 - 👨‍💻 All of my projects are available at [github.com/fenriquegimenez](github.com/fenriquegimenez)
 
-- 💬 Ask me about **React, JavaScript, NextJS, Python, Node, Typescript, Express.**
+- 💬 Ask me about **NextJS, Typescript, React, Node, Python, JavaScript, Express.**
 
 - 📫 How to reach me **fenriquegimenez@gmail.com**
 

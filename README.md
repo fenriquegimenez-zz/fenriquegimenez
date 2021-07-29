@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Documenta](https://www.documenta.com.py)
 
-- 🌱 I’m currently learning **React** and **NextJS**
+- 🌱 I’m currently learning **React**, **NextJS** and **Jest**
 
 - 👯 My open source contributions were on [Python Spanish Documentation](https://github.com/python/python-docs-es)
 
 - 👨‍💻 All of my projects are available at [github.com/fenriquegimenez](github.com/fenriquegimenez)
 
-- 💬 Ask me about **NextJS, Typescript, React, Node, Python, JavaScript, Express.**
+- 💬 Ask me about **NextJS, Typescript, React, Node, Python, JavaScript, Express, Jest.**
 
 - 📫 How to reach me **fenriquegimenez@gmail.com**
 
